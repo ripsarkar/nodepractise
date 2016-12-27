@@ -1,0 +1,10 @@
+1.mongo
+2.show dbs
+3.use bookstore
+4.show collections
+5.db.createCollection('books')
+6.show collections
+7.db.createCollection('genres')
+8.db.genres.insert({name:'Suspens'})
+9.db.genres.find
+8.db.genres.insert({title:'Suspens',genre:'',description:'',author:'',publisher:''})
